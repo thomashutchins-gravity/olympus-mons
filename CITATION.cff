@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below (preferred-citation)."
+type: software
+title: "Olympus MONS: Mountains On Neutron Stars"
+abstract: >-
+  Numerical calculations of the maximum sizes of neutron star mountains
+  supported by crustal lattice pressure.
+authors:
+  - family-names: Hutchins
+    given-names: Thomas J.
+    orcid: "https://orcid.org/0000-0001-8185-665X"
+    affiliation: University of Southampton
+repository-code: "https://github.com/thomashutchins-gravity/olympus-mons"
+license: BSD-3-Clause
+keywords:
+  - neutron stars
+  - gravitational waves
+  - astrophysics
+  - numerical methods
+
+preferred-citation:
+  type: article
+  status: in-press
+  title: "Numerical calculations of neutron star mountains supported by crustal lattice pressure"
+  authors:
+    - family-names: Hutchins
+      given-names: T. J.
+      orcid: "https://orcid.org/0000-0001-8185-665X"
+    - family-names: Jones
+      given-names: D. I.
+      orcid: "https://orcid.org/0000-0002-0117-7567"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  year: 2026
+  doi: "10.48550/arXiv.2603.28857"
+  url: "https://arxiv.org/abs/2603.28857"
+
+references:
+  - type: article
+    title: "Gravitational radiation from thermal mountains on accreting neutron stars: sources of temperature non-axisymmetry"
+    authors:
+      - family-names: Hutchins
+        given-names: T. J.
+        orcid: "https://orcid.org/0000-0001-8185-665X"
+      - family-names: Jones
+        given-names: D. I.
+        orcid: "https://orcid.org/0000-0002-0117-7567"
+    journal: "Monthly Notices of the Royal Astronomical Society"
+    volume: 522
+    issue: 1
+    start: 226
+    end: 251
+    year: 2023
+    doi: "10.1093/mnras/stad967"
+  - type: article
+    title: "Crustal lattice pressure as a source of neutron star mountains"
+    authors:
+      - family-names: Jones
+        given-names: D. I.
+        orcid: "https://orcid.org/0000-0002-0117-7567"
+      - family-names: Hutchins
+        given-names: T. J.
+        orcid: "https://orcid.org/0000-0001-8185-665X"
+    journal: "Monthly Notices of the Royal Astronomical Society"
+    volume: 540
+    issue: 3
+    start: 2349
+    end: 2358
+    year: 2025
+    doi: "10.1093/mnras/staf784"
