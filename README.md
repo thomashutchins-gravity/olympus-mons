@@ -1,9 +1,9 @@
 # Olympus M.O.N.S
 
-Olympus M.O.N.S (Mountains On Neutron Stars) is a numerical code named after the tallest mountain in the Solar
-System that calculates the size of neutron star mountains. It performs 1D simulations of the asymmetric
-thermal structure of magnetised neutron stars which result in mass asymmetries, or "mountains", that cause
-the star to radiate gravitationally as it rotates/spins (i.e. produce gravitational waves).
+Olympus M.O.N.S (Mountains On Neutron Stars) is a numerical code that calculates the size of neutron
+star mountains. It performs 1D simulations of the asymmetric thermal structure of magnetised neutron 
+stars which result in mass asymmetries, or "mountains", that cause the star to radiate gravitationally 
+as it rotates/spins (i.e. produce gravitational waves).
 
 ## Scientific background and motivation
 
