@@ -11,8 +11,8 @@ of the Keplerian break-up spin frequency. One possible explanation for this, des
 accretion spin-up torques, is the emission of gravitational waves from the star. This code models
 gravitational wave emission in the following way:
 
-- **Temperature asymmetries:** anisotropic heat transport produces temperature gradients inside the
-  star.
+- **Temperature asymmetries:** anisotropic heat transport due to internal magnetic fields produce
+  temperature gradients inside the star.
 - **Crustal lattice pressure:** temperature asymmetries induce perturbations in the pressure of the
   crystalline structure that makes up the star's solid crust.
 - **Mass asymmetry:** pressure perturbations lead to an elastic readjustment of the crustal matter,
