@@ -1,9 +1,8 @@
 # Olympus M.O.N.S
 
 Olympus M.O.N.S (Mountains On Neutron Stars) is a numerical code that calculates the size of neutron
-star mountains. It performs 1D simulations of the thermal structure of magnetised neutron stars which 
-result in mass asymmetries, or "mountains", that cause the star to radiate gravitationally 
-as it rotates/spins (i.e. produce gravitational waves).
+star mountains; it performs 1D simulations of the hydrostatic and thermal structure of accreting 
+neutron stars.
 
 ## Scientific background and motivation
 
@@ -13,11 +12,14 @@ accretion spin-up torques, is the emission of gravitational waves from the star.
 gravitational wave emission in the following way:
 
 - **Temperature asymmetries:** anisotropic heat transport produces temperature gradients inside the
-  magnetised neutron star.
+  star.
 - **Crustal lattice pressure:** temperature asymmetries induce perturbations in the pressure of the
   crystalline structure that makes up the star's solid crust.
 - **Mass asymmetry:** pressure perturbations lead to an elastic readjustment of the crustal matter,
   giving the star a non-zero mass quadrupole moment.
+
+Such a mass asymmetry, or a "mountain", would then lead the star to radiate gravitationally as it 
+spins/rotates.
 
 ## Publications
 
